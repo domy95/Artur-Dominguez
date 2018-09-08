@@ -499,7 +499,7 @@
 						<h3><span class="name-left">Maintenance of computer equipment</span><span class="value-right">95%</span></h3>
 						<div class="progress">
 						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						  aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
 						  </div>
 						</div>
 					</div>
@@ -515,7 +515,7 @@
 						<h3><span class="name-left">Server management</span><span class="value-right">90%</span></h3>
 						<div class="progress">
 						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 						  </div>
 						</div>
 					</div>
@@ -525,7 +525,7 @@
 						<h3><span class="name-left">Repairs</span><span class="value-right">95%</span></h3>
 						<div class="progress">
 						  <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+						  aria-valuenow="95" aria-valuemin="0" aria-valuemax="100" style="width:95%">
 						  </div>
 						</div>
 					</div>
@@ -533,7 +533,7 @@
 						<h3><span class="name-left">Distribution</span><span class="value-right">80%</span></h3>
 						<div class="progress">
 						  <div class="progress-bar progress-bar-striped active" role="progressbar"
-						  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+						  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
 						  </div>
 						</div>
 					</div>
@@ -541,7 +541,7 @@
 						<h3><span class="name-left">Assembly</span><span class="value-right">90%</span></h3>
 						<div class="progress">
 						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
 						  </div>
 						</div>
 					</div>
